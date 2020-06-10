@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color:white ;
+}
+#barra{
+    background-color: white;
+    padding: 1px 583px;
+    display: inline-block;
+    color:blue;
+    text-decoration: none;
+    display: inline;
+     
+}
+#menu ul{
+    background-image:url("Logotipo5.png");
+    height: 30px;
+    padding: 20px;
+    margin: 0;
+    background-color:black;
+    list-style: none;
+}
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    padding: 30px 20px;
+    display: inline-block;
+    color:black;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    color:red;
+}
+#Imagem {
+    float: left;
+    margin-left: 90px;
+    margin-bottom: 50px;
+}
+
+
+    
+
